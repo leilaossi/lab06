@@ -11,8 +11,8 @@ public class SoftwareEngineering {
         number1 = scnr.nextInt();
         number2 = scnr.nextInt();
 
-        int sum = number1 + number2;
+        int diff = number1 - number2;
 
-        System.out.println(sum);
+        System.out.println(diff);
     }
 }
